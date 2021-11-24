@@ -35,7 +35,7 @@ pFeatures.show(5)
 
 //Indexing the labels (species)
 val SpeciesIndexer = new StringIndexer().setInputCol("species").setOutputCol("indexedSpecies").fit(pFeatures)
-println(s"Found labels: ${SpeciesIndexer.labels.mkString("[", ", ", "]")}")
+println(s"labels: ${SpeciesIndexer.labels.mkString("[", ", ", "]")}")
 
 //Indexing the features
 val featuresIndexer = new VectorIndexer().setInputCol("pFeatures").setOutputCol("indexedFeatures").setMaxCategories(4).fit(pFeatures)
@@ -62,4 +62,4 @@ predictions.show(10)
 val evaluator = new MulticlassClassificationEvaluator().setLabelCol("indexedSpecies").setPredictionCol("prediction").setMetricName("accuracy")
 
 val accuracy = evaluator.evaluate(predictions)
-println(accuracy)
+println(accuracy*100)
