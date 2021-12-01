@@ -12,19 +12,17 @@ Repositorio para Datos Masivos
 ### Homework & Research
 ### Evaluation
 
-## [Unit 3](https://github.com/vcesar454/Datos_Masivos/tree/Unit_2)
+## [Unit 3](https://github.com/vcesar454/Datos_Masivos/tree/Unit_3)
 ### Practices
-- [Practice Folder](https://github.com/vcesar454/Datos_Masivos/tree/Unit_2/Practices) <br>
+- [Practice Folder](https://github.com/vcesar454/Datos_Masivos/tree/Unit_3/Practices) <br>
+- [Practice #1 -U3](https://github.com/vcesar454/Datos_Masivos/blob/Unit_3/Practices/Practice%20%231%20-%20Unit%203.pdf) <br>
+- [Practice #1.scala](https://github.com/vcesar454/Datos_Masivos/blob/Unit_3/Practices/Practice%20%231.scala) <br>
 
 
 
 ### Homework & Research
 
 ### Evaluation
-- [Evaluative_Practice.scala](https://github.com/vcesar454/Datos_Masivos/blob/Unit_2/Tests/Evaluative%20Practice.scala)
-
-- [Evaluative_Practice.pdf](https://github.com/vcesar454/Datos_Masivos/blob/Unit_2/Tests/Evaluative%20Practice.scala)
-
 
 ## Unit 4
 ### Practices
