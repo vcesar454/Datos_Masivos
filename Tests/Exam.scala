@@ -6,8 +6,11 @@ import org.apache.spark.ml.clustering.KMeans
 import org.apache.spark.ml.feature.VectorAssembler
 import org.apache.spark.ml.linalg.Vectors
 
+//Create a simple Spark Session
+val session = SparkSession.builder().getOrCreate()
+
 //Load the Wholesale Customers Data dataset
-val data = spark.read.option("header", "true").option("inferSchema", "true").format("csv").load("CSV/Wholesale customers data.csv")
+val data = session.read.option("header", "true").option("inferSchema", "true").format("csv").load("CSV/Wholesale customers data.csv")
 
 // Select the following columns: Fresh, Milk, Grocery, Frozen, Detergents_Paper, Delicassen and call this set feature_data
 var feature_data = data.select($"Fresh", $"Milk", $"Grocery", $"Frozen", $"Detergents_Paper", $"Delicassen")
