@@ -1,7 +1,13 @@
 ## Unit 1
 ### Practices
+- [Practice #1 - GitFlow.pdf](https://github.com/vcesar454/Datos_Masivos/blob/main/Practices/Practice%20%231%20GitFlow.pdf)<br>
+- [Practice #2.pdf](https://github.com/vcesar454/Datos_Masivos/blob/main/Practices/Practice%20%232.pdf) <br>
+- [Practice #3.pdf](https://github.com/vcesar454/Datos_Masivos/blob/main/Practices/Practice%20%233.pdf) <br>
+- [Practice #4.pdf](https://github.com/vcesar454/Datos_Masivos/blob/main/Practices/Practice%20%234.pdf) <br>
 ### Homework & Research
 ### Evaluation
+- [Exam.pdf](https://github.com/vcesar454/Datos_Masivos/blob/main/Exams/Exam.pdf) <br>
+- [Exam.scala](https://github.com/vcesar454/Datos_Masivos/blob/main/Exams/exam.scala) <br>
 
 ## [Unit 2](https://github.com/vcesar454/Datos_Masivos/tree/Unit_2)
 ### Practices
