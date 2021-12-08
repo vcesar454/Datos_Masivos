@@ -55,7 +55,3 @@
 - [Exam Folder](https://github.com/vcesar454/Datos_Masivos/tree/Unit_3/Tests)
 - [Evaluative Practice - Unit 3](https://github.com/vcesar454/Datos_Masivos/blob/Unit_3/Tests/Evaluative%20Practice%20-%20Unit%203.pdf) <br>
 - [Exam.scala](https://github.com/vcesar454/Datos_Masivos/blob/Unit_3/Tests/Exam.scala)
-## Unit 4
-### Practices
-### Homework & Research
-### Evaluation
